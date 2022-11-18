@@ -1,0 +1,26 @@
+alias winword="open -a Microsoft\ Word" 
+PATH=/usr/local/texlive/2020/bin/x86_64-linux:$PATH
+export PATH
+INFOPATH=/usr/local/texlive/2020/texmf-dist/doc/info:$INFOPATH
+export INFOPATH
+MANPATH=/usr/local/texlive/2020/texmf-dist/doc/man:$MANPATH
+export MANPATH
+alias update-tex='sudo -u tex -E $(which tlmgr) update --self --all'
+alias 273="cd ~/Documents/2-1/The_Good_Life"
+alias 220="cd ~/Documents/2-1/math220"
+alias 150="cd ~/Documents/2-1/CS_150"
+alias 207="cd ~/Documents/2-1/italianofall22"
+mkcd () {
+	mkdir -p -- "$1" && cd -P -- "$1"
+}
+
+nv () {
+	nvim "$1" 
+}
+
+py () {
+	python3 "$1"
+}
+
+alias reload="source ~/bash_profile"
+alias ranger="py ~/ranger-1.9.3/ranger.py"
