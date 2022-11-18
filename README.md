@@ -1,2 +1,2 @@
-# dotfiles-
+# Because life is too short to *not* be a tryhard... 
 Files/configurations that I use in my current setup with yabai, skhd, ohmyzsh, and alacritty/iTerm2. Enjoy! 
