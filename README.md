@@ -2,7 +2,7 @@
 
 **Yes, this is unfortunately how I actually use my comptuer whenever I am trying to take notes/code.**
 
-Here is the current configuration that I use for alacritty, yabai/skhdrc, and neovim. I'll eventually add my zsh plugins, but this is all for now! I eventually plan on moving to emacs but until then...
+This is the current configuration that I have for alacritty, yabai/skhdrc, and neovim. I'll eventually add my zsh plugins, but this is all for now! I eventually plan on moving to emacs but until then...
 
 ![aesthetic desktop](screenshots/desktop.png)
 
@@ -15,3 +15,6 @@ Here is the current configuration that I use for alacritty, yabai/skhdrc, and ne
 ## Notetaking example 
 
 ![latex workflow](screenshots/latex.png)
+
+Credits:
+skhdrc and yabai setup from @julian-heng
