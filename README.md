@@ -6,11 +6,17 @@ This is the current configuration that I have for alacritty, yabai/skhdrc, and n
 
 ![aesthetic desktop](screenshots/desktop.png)
 
-## Essentials: 
+## Quality-of-Life Essentials for Terminal Usage: 
 1. yabai (window manager in the style of binary split panes)
-2. neofetch (*aesthetic* specs list)
-3. glow (*aesthetic* markdown viewer in terminal)
-4. zathura (PDF Viewer with VIM-like controls)
+2. Neovim 
+3. neofetch (*aesthetic* specs list)
+4. glow (*aesthetic* markdown viewer in terminal)
+5. zathura (PDF Viewer with VIM-like controls)
+
+## Neovim Notetaking essentials: 
+1. vim-pencil
+2. goyo.vim
+3. limelight.vim
 
 ## Notetaking example 
 
