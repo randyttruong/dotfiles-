@@ -16,7 +16,7 @@ This is the current configuration that I have for alacritty, yabai/skhdrc, and n
 5. zathura (PDF viewer with Vim-like controls)
 
 ## For Notetaking (by Importance): 
-1. limelight.vim (adds paragraph highlighting in VIm)
+1. limelight.vim (adds paragraph highlighting to Vim)
 2. goyo.vim (adds a *focus* mode to Vim)
 3. vim-pencil (adds Word-like text wrapping)
 
