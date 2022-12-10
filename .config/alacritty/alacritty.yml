@@ -1,0 +1,67 @@
+window:
+  decorations: none
+  padding: 
+    x: 8
+    y: 1 
+  class:
+    instance: Alacritty
+    general: Alacritty 
+  opacity: 1 
+  dynamic_padding: true 
+
+
+font:
+  normal:
+    family: MesloLGS NF  
+    style: Regular
+
+  bold:
+    family: MesloLGS NF 
+    style: Bold 
+
+  italic:
+    family: MesloLGS NF
+    style: Italic 
+
+  bold_italic:
+    family: MesloLGS NF 
+    style: Bold Italic 
+  
+  custom_cursor_colors: true 
+
+  size: 14
+
+
+colors:
+  # Default colors
+  primary:
+    background: '0x061219'
+    foreground: '0xc3d7e6'
+  # Normal colors
+  normal:
+    black:   '0x0c1215'
+    red:     '0x141c21'
+    green:   '0x222e35'
+    yellow:  '0x364650'
+    blue:    '0x506573'
+    magenta: '0x6e8b9d'
+    cyan:    '0x92b7ce'
+    white:   '0xd7e4ee'
+
+  # Bright colors
+  bright:
+    black:   '0x72e5cd'
+    red:     '0xe9aabe'
+    green:   '0xc1e69c'
+    yellow:  '0xc7a8dc'
+    blue:    '0xb0e472'
+    magenta: '0xc5a0dd'
+    cyan:    '0x7dc6b6'
+    white:   '0x97e9d6'
+
+  cursor:
+    text: '0x20201d'
+    cursor: '0xa6a28c'
+
+draw_bold_text_with_bright_colors: true 
+
