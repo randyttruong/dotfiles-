@@ -1,0 +1,25 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 1,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 600,
+       "width": 800,
+       "x": 0,
+       "y": 0
+    },
+    "marks": [],
+    "name": "randy-xps8940 ❐ 0 ● 3 fish",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^Alacritty$",
+       // "instance": "^Alacritty$",
+       // "machine": "^randy\\-xps8940$",
+       // "title": "^randy\\-xps8940\\ \\❐\\ 0\\ \\●\\ 3\\ fish$"
+       }
+    ],
+    "type": "con"
+}
+

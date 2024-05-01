@@ -1,0 +1,18 @@
+import = [
+  "/home/randyt/.config/alacritty/themes/themes/alacritty_0_12.toml"
+]
+
+[font.normal]
+family = "SF Mono"
+style = "Regular"
+
+[window]
+opacity = 0.9
+
+[window.dimensions]
+columns = 80
+lines= 24
+
+[window.padding]
+x = 10
+y = 10
